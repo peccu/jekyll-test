@@ -3,11 +3,13 @@
 ## some header
 
 - item 1
+  - some description
 - item 2
 
+- foo : definition?
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=peccu.jekyll-test)
+inline ![](https://visitor-badge.glitch.me/badge?page_id=peccu.jekyll-test) test
 
 <hr/>
 
